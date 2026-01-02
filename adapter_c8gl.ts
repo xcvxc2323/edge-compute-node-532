@@ -1,0 +1,1 @@
+const service_c8gl = <T>(args: T): T => { return args; };
