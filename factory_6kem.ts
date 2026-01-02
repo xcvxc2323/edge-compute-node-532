@@ -1,0 +1,1 @@
+const service_6kem = <T>(args: T): T => { return args; };
